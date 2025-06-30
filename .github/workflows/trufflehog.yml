@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: trufflesecurity/trufflehog@v3
+      - uses: trufflesecurity/trufflehog@v3.0.3
         with:
           scan: git
           extra-args: "--since-commit=0000000"
