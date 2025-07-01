@@ -1,1 +1,0 @@
-Helpers now operate in /mnt/c/Users/david/jules-workspace
